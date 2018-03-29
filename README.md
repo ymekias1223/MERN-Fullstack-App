@@ -1,1 +1,5 @@
-React Don't Do It
+1. install dependencies
+2. run "yarn start"
+3. serach for articles
+
+:)
